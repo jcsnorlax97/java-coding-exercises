@@ -1,4 +1,4 @@
-package setup;
+package com.github.jcsnorlax97.java_coding_exercises;
 
 public class Main {
 
