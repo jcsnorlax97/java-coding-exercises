@@ -1,4 +1,4 @@
-package setup;
+package com.github.jcsnorlax97.java_coding_exercises;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
